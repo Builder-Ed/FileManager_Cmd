@@ -1,9 +1,7 @@
 @echo off
-Echo Hello!
+Echo Thank You For Using FileManager_CMD!
 ping -n 2 127.1>nul
-Echo Starting The Programme!
-ping -n 2 127.1>nul
-Echo Finished!
+cls
 goto start
 :start
 cls
